@@ -55,12 +55,6 @@ Back End: Node.js | Express | MongoDB | Mongoose | MySQL | PostgreSQL | RESTful 
 
 
 
-  <br/>
-  <b>Note:</b> I am a Full-Stack developer and a perfectionist who does what he loves. I am specialized in both Front-End and Back-End Development. The most important goal for me is to make reliable and user-friendly software.
-I have strong command of English and can provide a clear and smooth communication.
-
-
-
 <br/>
 <br/>
 
