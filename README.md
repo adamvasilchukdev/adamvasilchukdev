@@ -1,4 +1,17 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi 👋, I'm Adam Vasilchuk</h1>
+<h3 align="center">Web & App Developer | JavaScript | PHP | Python | Angular 🌟.</h3>
+
+<br>
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adam Shevchenko</h1>
 <h3 align="center"> Web & App Developer | PHP | Python | Angular |.</h3>
 
@@ -12,6 +25,7 @@ Front End: JavaScript (ES5 and ES6) | HTML5 | CSS3 | React | AngularJS | Vue.js 
 Back End: Node.js | Express | MongoDB | Mongoose | MySQL | PostgreSQL | RESTful API Development | GraphQL | Firebase
 
 - 📫 How to reach me *adamvasilchuk1@gmail.com*
+- ⚡ Fun fact :- food and anime are the reasons to live.
 
 ## 🚀 Languages and Tools: 
 
