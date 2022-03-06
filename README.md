@@ -11,21 +11,16 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adam Shevchenko</h1>
-<h3 align="center"> Web & App Developer | PHP | Python | Angular |.</h3>
-
-
 ## 🙋‍♂️ About Me
 
 - 👯I am a Full Stack Web Developer with over 5+ years of professional experience. I like to write clear, well tested and easy to understand code. I am open to learning new technologies to find the best solution for my clients within their timelines.
 
-Front End: JavaScript (ES5 and ES6) | HTML5 | CSS3 | React | AngularJS | Vue.js | Redux | PHP | jQuery 
+  🚀 Front End: JavaScript (ES5 and ES6) | HTML5 | CSS3 | React | AngularJS | Vue.js | Redux | PHP | jQuery 
 
-Back End: Node.js | Express | MongoDB | Mongoose | MySQL | PostgreSQL | RESTful API Development | GraphQL | Firebase
+  🚀 Back End: Node.js | Express | MongoDB | Mongoose | MySQL | PostgreSQL | RESTful API Development | GraphQL | Firebase
 
 - 📫 How to reach me *adamvasilchuk1@gmail.com*
-- ⚡ Fun fact :- food and anime are the reasons to live.
+- ⚡ Fun fact :- Coding and programing are the reasons to live.
 
 ## 🚀 Languages and Tools: 
 
